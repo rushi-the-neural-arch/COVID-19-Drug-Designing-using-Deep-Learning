@@ -33,6 +33,7 @@ Finally, the predicted and generated molecules can be evaluated by docking them 
 
 * PyTorch
 * Fast.ai
+* Tensorflow
 
 ## Datasets
 
@@ -42,10 +43,14 @@ The following datasets are being used to train the Predictive and Generative mod
 * [ChemBL] (https://www.ebi.ac.uk/chembl/)
 * [Harmonizome] (http://amp.pharm.mssm.edu/Harmonizome/)
 
+## Code & Literature
+[add colab link and report link here]:
+
+* [Google Colab Notebook - Starter Implementaion]()
+* [Detailed Report and Summary]()
 
 ## Contribution
 
 Please feel free to raise issues and fix any existing ones. Further details can be found in our [code of conduct](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/CODE_OF_CONDUCT.md).
 
 ## References
-

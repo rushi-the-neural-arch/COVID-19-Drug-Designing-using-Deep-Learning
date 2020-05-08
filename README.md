@@ -47,7 +47,7 @@ The following datasets are being used to train the Predictive and Generative mod
 [add colab link and report link here]:
 
 * [Google Colab Notebook - Starter Implementaion]()
-* [Detailed Report and Summary]()
+* [Detailed Report and Summary](https://docs.google.com/document/d/1IWB2wr_uuvgtudyrmNasx1orrYP3pm9mvvEdRHGbUvk/edit?usp=sharing)
 
 ## Contribution
 

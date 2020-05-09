@@ -67,7 +67,7 @@ https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery
 
 https://github.com/microsoft/constrained-graph-variational-autoencoder​
 
-https://www.rcsb.org/structure/6LU7
+[The crystal structure of COVID-19 main protease in complex with an inhibitor N3](https://www.rcsb.org/structure/6LU7)
 
 https://github.com/schrodinger/pymol-open-source
 

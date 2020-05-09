@@ -54,3 +54,31 @@ The following datasets are being used to train the Predictive and Generative mod
 Please feel free to raise issues and fix any existing ones. Further details can be found in our [code of conduct](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/CODE_OF_CONDUCT.md).
 
 ## References
+
+We gratefully thank all the researchers and developers who constantly work hard and open-source their findings to develop the solution to battle this pandemic to find better cure or vaccination. The above-proposed work is made possible only because of their initial and continuous research and findings.
+
+https://www.nature.com/articles/s41586-020-2223-y 
+https://chemrxiv.org/articles/Building_Attention_and_Edge_Convolution_Neural_Network s_for_Bioactivity_and_Physical-Chemical_Property_Prediction/9873599​ 
+https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery​
+https://arxiv.org/pdf/1805.09076.pdf​ https://github.com/microsoft/constrained-graph-variational-autoencoder​
+https://www.rcsb.org/structure/6LU7
+https://github.com/schrodinger/pymol-open-source
+​https://pymol.org/2/
+​https://www.ncbi.nlm.nih.gov/pcassay/advanced​
+http://vina.scripps.edu/download.html
+Generative Recurrent Networks for De Novo Drug Design
+        
+https://github.com/topazape/LSTM_Chem 
+
+https://github.com/molecularsets/moses 
+
+https://www.ebi.ac.uk/chembl/ 
+
+http://amp.pharm.mssm.edu/Harmonizome/ 
+
+https://pymol.org/2/ 
+ 
+ tinkavidovic/competition
+
+
+

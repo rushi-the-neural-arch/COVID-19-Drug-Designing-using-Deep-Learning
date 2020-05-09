@@ -1,5 +1,11 @@
 # SAMHAR-COVID-19
 
+## Code & Literature
+[add colab link and report link here]:
+
+* [Google Colab Notebook - Starter Implementaion](https://colab.research.google.com/drive/1NnsEVRVaD2dKnTWtP4p5iPtiQ8fxpkEG?usp=sharing)
+* [Detailed Report and Summary](https://docs.google.com/document/d/1IWB2wr_uuvgtudyrmNasx1orrYP3pm9mvvEdRHGbUvk/edit?usp=sharing)
+
 ## Summary
 
 This repository is made in lieu of submission in SAMHAR hackathon. 
@@ -43,11 +49,6 @@ The following datasets are being used to train the Predictive and Generative mod
 * [ChemBL] (https://www.ebi.ac.uk/chembl/)
 * [Harmonizome] (http://amp.pharm.mssm.edu/Harmonizome/)
 
-## Code & Literature
-[add colab link and report link here]:
-
-* [Google Colab Notebook - Starter Implementaion](https://colab.research.google.com/drive/1NnsEVRVaD2dKnTWtP4p5iPtiQ8fxpkEG?usp=sharing)
-* [Detailed Report and Summary](https://docs.google.com/document/d/1IWB2wr_uuvgtudyrmNasx1orrYP3pm9mvvEdRHGbUvk/edit?usp=sharing)
 
 ## Contribution
 
@@ -61,7 +62,7 @@ We gratefully thank all the researchers and developers who constantly work hard 
 
 [Building Attention and Edge Convolution Neural Networks for Bioactivity and Physical-Chemical Property Prediction](https://chemrxiv.org/articles/Building_Attention_and_Edge_Convolution_Neural_Networks_for_Bioactivity_and_Physical-Chemical_Property_Prediction/9873599/2)
 
-[Graph Neural Network for Drug Discovery!](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
+[Graph Neural Network for Drug Discovery](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
 
 [Constrained Graph Variational Autoencoders for Molecule Design](https://arxiv.org/pdf/1805.09076.pdf)
 

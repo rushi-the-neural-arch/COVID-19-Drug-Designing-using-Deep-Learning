@@ -89,7 +89,7 @@ https://github.com/molecularsets/moses
 
 https://pymol.org/2/ 
  
-[tinkavidovic/competition](https://github.com/tinkavidovic/competition)
+[P-value testing](https://github.com/tinkavidovic/competition)
 
 
 

@@ -71,7 +71,7 @@ We gratefully thank all the researchers and developers who constantly work hard 
 
 [National Centre for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pcassay/advanced)
 
-http://vina.scripps.edu/download.html
+[AutoDock Vina for Molecular Docking](http://vina.scripps.edu/download.html)
 
 [Generative Recurrent Networks for De Novo Drug Design](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700111)
         

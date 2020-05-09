@@ -75,7 +75,7 @@ https://github.com/schrodinger/pymol-open-source
 
 http://vina.scripps.edu/download.html
 
-Generative Recurrent Networks for De Novo Drug Design 
+[Generative Recurrent Networks for De Novo Drug Design](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700111)
         
 https://github.com/topazape/LSTM_Chem 
 

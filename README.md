@@ -87,7 +87,7 @@ http://amp.pharm.mssm.edu/Harmonizome/
 
 https://pymol.org/2/ 
  
- tinkavidovic/competition
+[tinkavidovic/competition](https://github.com/tinkavidovic/competition)
 
 
 

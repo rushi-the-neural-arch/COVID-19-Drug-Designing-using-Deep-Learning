@@ -59,11 +59,13 @@ We gratefully thank all the researchers and developers who constantly work hard 
 
 https://www.nature.com/articles/s41586-020-2223-y 
 
-https://chemrxiv.org/articles/Building_Attention_and_Edge_Convolution_Neural_Network s_for_Bioactivity_and_Physical-Chemical_Property_Prediction/9873599​ 
+https://chemrxiv.org/articles/Building_Attention_and_Edge_Convolution_Neural_Networks_for_Bioactivity_and_Physical-Chemical_Property_Prediction/9873599​ 
 
 https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery​
 
-https://arxiv.org/pdf/1805.09076.pdf​ https://github.com/microsoft/constrained-graph-variational-autoencoder​
+https://arxiv.org/pdf/1805.09076.pdf​ 
+
+https://github.com/microsoft/constrained-graph-variational-autoencoder​
 
 https://www.rcsb.org/structure/6LU7
 

@@ -83,9 +83,9 @@ https://github.com/topazape/LSTM_Chem
 
 https://github.com/molecularsets/moses 
 
-https://www.ebi.ac.uk/chembl/ 
+[ChemBL Dataset](https://www.ebi.ac.uk/chembl/)
 
-http://amp.pharm.mssm.edu/Harmonizome/ 
+[Harmonizome Dataset](http://amp.pharm.mssm.edu/Harmonizome/)
 
 https://pymol.org/2/ 
  

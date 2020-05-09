@@ -61,9 +61,9 @@ We gratefully thank all the researchers and developers who constantly work hard 
 
 [Building Attention and Edge Convolution Neural Networks for Bioactivity and Physical-Chemical Property Prediction](https://chemrxiv.org/articles/Building_Attention_and_Edge_Convolution_Neural_Networks_for_Bioactivity_and_Physical-Chemical_Property_Prediction/9873599/2)
 
-[Constrained Graph Variational Autoencoders for Molecule Design](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
+https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery
 
-https://arxiv.org/pdf/1805.09076.pdf​ 
+[Constrained Graph Variational Autoencoders for Molecule Design](https://arxiv.org/pdf/1805.09076.pdf)
 
 https://github.com/microsoft/constrained-graph-variational-autoencoder​
 

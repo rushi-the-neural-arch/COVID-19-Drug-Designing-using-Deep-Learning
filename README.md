@@ -73,7 +73,7 @@ https://github.com/schrodinger/pymol-open-source
 
 ​https://pymol.org/2/
 
-​https://www.ncbi.nlm.nih.gov/pcassay/advanced​
+[National Centre for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pcassay/advanced)
 
 http://vina.scripps.edu/download.html
 

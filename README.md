@@ -65,13 +65,9 @@ We gratefully thank all the researchers and developers who constantly work hard 
 
 [Constrained Graph Variational Autoencoders for Molecule Design](https://arxiv.org/pdf/1805.09076.pdf)
 
-[Constrained Graph Variational Autoencoder](https://github.com/microsoft/constrained-graph-variational-autoencoder)
-
 [The crystal structure of COVID-19 main protease in complex with an inhibitor N3](https://www.rcsb.org/structure/6LU7)
 
-https://github.com/schrodinger/pymol-open-source
-
-​https://pymol.org/2/
+[PyMol](https://pymol.org/2/)
 
 [National Centre for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pcassay/advanced)
 
@@ -81,13 +77,11 @@ http://vina.scripps.edu/download.html
         
 https://github.com/topazape/LSTM_Chem 
 
-https://github.com/molecularsets/moses 
+[Moses Dataset](https://github.com/molecularsets/moses)
 
 [ChemBL Dataset](https://www.ebi.ac.uk/chembl/)
 
 [Harmonizome Dataset](http://amp.pharm.mssm.edu/Harmonizome/)
-
-https://pymol.org/2/ 
  
 [P-value testing](https://github.com/tinkavidovic/competition)
 

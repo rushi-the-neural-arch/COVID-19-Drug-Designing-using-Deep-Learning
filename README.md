@@ -1,4 +1,4 @@
-# SAMHAR-COVID-19
+# COVID-19 Drug Designing
 
 ## Code & Literature
 

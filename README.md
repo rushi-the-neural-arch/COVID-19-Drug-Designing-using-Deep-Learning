@@ -4,7 +4,7 @@
 
 * [Google Colab Notebook - Starter Implementaion](https://colab.research.google.com/drive/1NnsEVRVaD2dKnTWtP4p5iPtiQ8fxpkEG?usp=sharing)
 * [Detailed Report and Summary](https://docs.google.com/document/d/1IWB2wr_uuvgtudyrmNasx1orrYP3pm9mvvEdRHGbUvk/edit?usp=sharing)
-
+ 
 ## Summary
 
 This repository is made in lieu of submission in SAMHAR hackathon. 

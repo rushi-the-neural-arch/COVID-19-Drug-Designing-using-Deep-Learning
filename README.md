@@ -55,7 +55,7 @@ Please feel free to raise issues and fix any existing ones. Further details can 
 
 ## References
 
-We gratefully thank all the researchers and developers who constantly work hard and open-source their findings to develop the solution to battle this pandemic to find better cure or vaccination. The above-proposed work is made possible only because of their initial and continuous research and findings.
+We gratefully thank all the researchers and developers who constantly work hard and open-source their findings to develop the solution to battle this pandemic to find better cure or vaccination and. The above-proposed work is made possible only because of their initial and continuous research, observations and findings.
 
 [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](https://www.nature.com/articles/s41586-020-2223-y)
 
